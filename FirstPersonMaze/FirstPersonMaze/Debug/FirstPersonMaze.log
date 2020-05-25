@@ -1,0 +1,4 @@
+﻿  FirstPersonMaze.cpp
+C:\Users\GamingRig\source\repos\FirstPersonMaze\FirstPersonMaze\FirstPersonMaze.cpp(156,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\GamingRig\source\repos\FirstPersonMaze\FirstPersonMaze\FirstPersonMaze.cpp(165,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FirstPersonMaze.vcxproj -> C:\Users\GamingRig\source\repos\FirstPersonMaze\Debug\FirstPersonMaze.exe
