@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\</FILEPATH>
+      <FILENAME>Vector.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Vector::length' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Vector::{ctor}</FUNCTION>
+    <DECORATED>??0Vector@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Vector::length</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

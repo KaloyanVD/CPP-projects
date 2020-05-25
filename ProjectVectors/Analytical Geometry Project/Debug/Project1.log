@@ -1,0 +1,16 @@
+﻿  Line.cpp
+  main.cpp
+  Point.cpp
+  Tetrahedron.cpp
+  Triangle.cpp
+  Vector.cpp
+  Compiling...
+  Generating Code...
+D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\Vector.cpp(66,86): warning C4805: '==': unsafe mix of type 'bool' and type 'double' in operation
+  Project1.vcxproj -> D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Debug\Project1.exe
+D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\Tetrahedron.cpp(3): warning C26495: Variable 'Tetrahedron::a' is uninitialized. Always initialize a member variable (type.6).
+D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\Triangle.cpp(5): warning C26495: Variable 'Triangle::centroid' is uninitialized. Always initialize a member variable (type.6).
+D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\Triangle.cpp(47): warning C26437: Do not slice (es.63).
+D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\Triangle.cpp(51): warning C26437: Do not slice (es.63).
+D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\Triangle.cpp(55): warning C26437: Do not slice (es.63).
+D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\Vector.cpp(5): warning C26495: Variable 'Vector::length' is uninitialized. Always initialize a member variable (type.6).

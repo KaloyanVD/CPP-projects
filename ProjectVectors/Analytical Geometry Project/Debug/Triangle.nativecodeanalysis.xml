@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\</FILEPATH>
+      <FILENAME>Triangle.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Triangle::centroid' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Triangle::{ctor}</FUNCTION>
+    <DECORATED>??0Triangle@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Triangle::centroid</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\</FILEPATH>
+      <FILENAME>Triangle.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26437</DEFECTCODE>
+    <DESCRIPTION>Do not slice (es.63).</DESCRIPTION>
+    <FUNCTION>Triangle::getPointOne</FUNCTION>
+    <DECORATED>?getPointOne@Triangle@@QAE?AVPoint@@XZ</DECORATED>
+    <FUNCLINE>46</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\</FILEPATH>
+      <FILENAME>Triangle.cpp</FILENAME>
+      <LINE>51</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26437</DEFECTCODE>
+    <DESCRIPTION>Do not slice (es.63).</DESCRIPTION>
+    <FUNCTION>Triangle::getPointTwo</FUNCTION>
+    <DECORATED>?getPointTwo@Triangle@@QAE?AVPoint@@XZ</DECORATED>
+    <FUNCLINE>50</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\</FILEPATH>
+      <FILENAME>Triangle.cpp</FILENAME>
+      <LINE>55</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26437</DEFECTCODE>
+    <DESCRIPTION>Do not slice (es.63).</DESCRIPTION>
+    <FUNCTION>Triangle::getPointThree</FUNCTION>
+    <DECORATED>?getPointThree@Triangle@@QAE?AVPoint@@XZ</DECORATED>
+    <FUNCLINE>54</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

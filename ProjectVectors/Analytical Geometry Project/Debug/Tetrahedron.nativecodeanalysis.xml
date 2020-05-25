@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\</FILEPATH>
+      <FILENAME>Tetrahedron.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Tetrahedron::a' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Tetrahedron::{ctor}</FUNCTION>
+    <DECORATED>??0Tetrahedron@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Tetrahedron::a</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\</FILEPATH>
+      <FILENAME>Tetrahedron.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Tetrahedron::c' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Tetrahedron::{ctor}</FUNCTION>
+    <DECORATED>??0Tetrahedron@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Tetrahedron::c</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\</FILEPATH>
+      <FILENAME>Tetrahedron.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Tetrahedron::b' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Tetrahedron::{ctor}</FUNCTION>
+    <DECORATED>??0Tetrahedron@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Tetrahedron::b</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\</FILEPATH>
+      <FILENAME>Tetrahedron.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Tetrahedron::d' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Tetrahedron::{ctor}</FUNCTION>
+    <DECORATED>??0Tetrahedron@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Tetrahedron::d</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\</FILEPATH>
+      <FILENAME>Tetrahedron.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Tetrahedron::perimeter' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Tetrahedron::{ctor}</FUNCTION>
+    <DECORATED>??0Tetrahedron@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Tetrahedron::perimeter</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Games\NEW PC\NBUhomework\НБУ Първа Година\Лекции\Обектно-Ориентирано Програмиране - Марияна Райкова\ProjectVectors\Project1\</FILEPATH>
+      <FILENAME>Tetrahedron.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Tetrahedron::volume' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Tetrahedron::{ctor}</FUNCTION>
+    <DECORATED>??0Tetrahedron@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Tetrahedron::volume</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
